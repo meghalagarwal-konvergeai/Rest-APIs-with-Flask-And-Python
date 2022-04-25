@@ -1,6 +1,3 @@
-from ast import arg
-
-
 class Store:
     def __init__(self, name):
         # You'll need 'name' as an argument to this method.
